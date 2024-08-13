@@ -1,2 +1,2 @@
-id: "smilez" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "SmileZ" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "smilez-umbrel-store" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "SmileZ Umbrel" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
